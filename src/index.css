@@ -1,0 +1,12 @@
+body{
+  text-align: center;
+  background-color: azure;
+}
+input{
+  margin: 1%;
+  
+}
+label{
+  text-align: center;
+  margin-right: 5px;
+}
